@@ -1,0 +1,19 @@
+{
+    "Items": [
+        {
+            "playerId": "002",
+            "playerLoc": "967",
+            "playerNick": "player1"
+        },
+        {
+            "playerId": "003",
+            "playerLoc": "687",
+            "playerNick": "player2"
+        },
+        {
+            "playerId": "004",
+            "playerLoc": "9763",
+            "playerNick": "player3"
+        }
+    ]
+}
